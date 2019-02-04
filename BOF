@@ -1,14 +1,14 @@
 **Useful resources for Learning and Hands on practice for buffer overflows**
 
-https://www.exploit-db.com/exploits/40673/
+https://www.exploit-db.com/exploits/40673/ -- FreeFloat FTP Server, for Windows XP Profesional SP3 ESP x86
 
-http://camelinc.info/blog/2014/05/Aviosoft-Digital-TV-Player-Professional-1.0-Stack-Buffer-Overflow/
+http://camelinc.info/blog/2014/05/Aviosoft-Digital-TV-Player-Professional-1.0-Stack-Buffer-Overflow/ -- for Windows XP SP3
 
-http://pusheax.com/exploit-writing-stack-based-buffer-overflow/
+<s>http://pusheax.com/exploit-writing-stack-based-buffer-overflow/</s> -- link dead 20190203
 
-http://tekwizz123.blogspot.in/2014/02/bypassing-aslr-and-dep-on-windows-7.html?m=1
+http://tekwizz123.blogspot.in/2014/02/bypassing-aslr-and-dep-on-windows-7.html?m=1 -- this is tutorial for exploit https://www.exploit-db.com/exploits/13763 for Windows XP
 
-http://www.arti-sec.com/article/buffer-overflow-slmail-5504433-full-development
+http://www.arti-sec.com/article/buffer-overflow-slmail-5504433-full-development -- SLMail for Windows XP SP3
 
 http://blog.gojhonny.com/2013/10/buffer-overflow-smashing-stack-tutorial.html
 
