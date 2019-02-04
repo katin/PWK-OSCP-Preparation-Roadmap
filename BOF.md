@@ -10,23 +10,23 @@ http://tekwizz123.blogspot.in/2014/02/bypassing-aslr-and-dep-on-windows-7.html?m
 
 http://www.arti-sec.com/article/buffer-overflow-slmail-5504433-full-development -- SLMail for Windows XP SP3
 
-http://blog.gojhonny.com/2013/10/buffer-overflow-smashing-stack-tutorial.html
+<s>http://blog.gojhonny.com/2013/10/buffer-overflow-smashing-stack-tutorial.html</s> -- link dead 20190203
 
-https://github.com/AnasFullStack/Penetration-Testing/blob/master/pwk/Win32_Buffer_Overflow_Exploitation.md
+https://github.com/AnasFullStack/Penetration-Testing/blob/master/pwk/Win32_Buffer_Overflow_Exploitation.md -- looks to be XP-based
 
 https://royleekiat.com/2016/01/15/buffer-overflow-attack-on-pcman-ftp-server-2-07-using-the-metasploit-framework-and-corelan-teams-mona-script/ *using msf
 
-http://www.primalsecurity.net/0x3-python-tutorial-fuzzer/
+http://www.primalsecurity.net/0x3-python-tutorial-fuzzer/ -- just fuzzing
 
 http://0xdeadcode.se/archives/178 <-- minishare
 
-https://bogner.sh/2016/04/the-hard-life-of-exploit-developers/
+https://bogner.sh/2016/04/the-hard-life-of-exploit-developers/ -- great tutorial, Windows 7, vulnserver using essfunc.dll
 
-http://ch3rn0byl.com/intro-to-buffer-overflows/
+http://ch3rn0byl.com/intro-to-buffer-overflows/ -- looks XP-based
 
-http://netsec.ws/?p=180
+http://netsec.ws/?p=180 -- Windows XP – SP3
 
-https://t0w3ntum.wordpress.com/2016/07/22/buffer-overflows-and-you/ <--good scripts
+<s>https://t0w3ntum.wordpress.com/2016/07/22/buffer-overflows-and-you/ <--good scripts</s> -- link dead 20190203
 
 http://n01g3l.tumblr.com/post/49036035399/linux-crossfire-v190-buffer-overflow
 
